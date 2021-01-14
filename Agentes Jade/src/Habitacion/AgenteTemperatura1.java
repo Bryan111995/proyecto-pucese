@@ -10,10 +10,7 @@ import jade.core.Agent;
 import jade.core.behaviours.*;
 import jade.lang.acl.ACLMessage;
 
-/**
- *
- * @author Aaron Jaramillo
- */
+
 public class AgenteTemperatura1 extends Agent {
 
     private long tini;
