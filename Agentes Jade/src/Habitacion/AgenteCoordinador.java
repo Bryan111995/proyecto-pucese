@@ -11,11 +11,8 @@ import jade.core.Agent;
 import jade.core.behaviours.*;
 import jade.lang.acl.ACLMessage;
 
-/**
- *
- * @author Aaron Jaramillo
- */
-//-gui -port 1098 fusion:Examen.AgenteFusion;temp1:Examen.AgenteTemperatura1;temp2:Examen.AgenteTemperatura1
+
+
 public class AgenteCoordinador extends Agent {
 
     long tini;
