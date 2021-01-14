@@ -8,12 +8,7 @@ package Habitacion;
 import jade.core.AID;
 import jade.core.Agent;
 import jade.core.behaviours.*;
-import jade.lang.acl.ACLMessage;
 
-/**
- *
- * @author Aaron Jaramillo
- */
 public class AgenteCardio extends Agent {
 
     private long tini;
