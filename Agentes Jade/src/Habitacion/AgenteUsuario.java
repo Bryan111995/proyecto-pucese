@@ -15,10 +15,7 @@ import jade.core.ProfileImpl;
 import jade.wrapper.*;
 import java.net.InetAddress;
 
-/**
- *
- * @author Aaron Jaramillo
- */
+
 public class AgenteUsuario {
 
     public static void main(String args[]) throws StaleProxyException {
