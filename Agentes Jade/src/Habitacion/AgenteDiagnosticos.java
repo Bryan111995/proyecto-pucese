@@ -10,11 +10,7 @@ import jade.core.Agent;
 import jade.core.behaviours.*;
 import jade.lang.acl.ACLMessage;
 
-/**
- *
- * @author user
- */
-//-gui -port 1098 compre:Examen.AgenteCompresor;hume:Examen.AgenteHumedad;fusi:Examen.AgenteFusion;temp1:Examen.AgenteTemperatura1;temp2:Examen.AgenteTemperatura1
+
 public class AgenteDiagnosticos extends Agent {
     
     long tini;
